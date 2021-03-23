@@ -1,0 +1,39 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h1 {
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-weight: bold;
+    text-align: center;
+    font-size: 24pt;
+    margin: 50px;
+    border: 2px dotted fuchsia;
+    font-;
+}
+h2 {
+    color: orange;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-weight: bold;
+    text-align: center;
+    font-size: 14pt;
+    margin: 50px;
+    border: 2px dotted fuchsia;
+}
+
+.color-list {
+    background-color: pink;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.color-list li {
+    display: inline;
+    border: 4px solid darkcyan;
+    background-color: yellow;
+    padding: 2px;
+    border-radius: 20%;
+
+}
